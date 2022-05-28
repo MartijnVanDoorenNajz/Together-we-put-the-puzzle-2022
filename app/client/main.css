@@ -1,0 +1,32 @@
+@import "/fonts/fonts.css";
+
+body {
+  font-family: "Cardenio";
+  background-color: rgb(238, 247, 255);
+  padding: 0px;
+  margin: 0px;
+  font-size: 23px;
+}
+
+a {
+  text-decoration: none;
+}
+
+input {
+  font-family: Cardenio;
+  padding: 10px;
+  border: none;
+}
+
+p {
+  font-family: Montserrat;
+  font-size: 14px;
+  margin: 0px;
+  margin-bottom: 10px;
+  background-image: url("./public/images/body-scan.png");
+}
+h1 {
+  color: darkblue;
+  margin-bottom: 10px;
+  font-size: 28px;
+}

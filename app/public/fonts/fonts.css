@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "Cardenio";
+  src: local("Cardenio Modern Std"), url(./Cardenio\ Modern\ Std.ttf);
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                              'embedded-opentype', and 'svg' */
+}
